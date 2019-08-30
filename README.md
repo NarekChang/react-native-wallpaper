@@ -1,4 +1,5 @@
 # react-native-wallpaper
+### I added fixes for work
 Set Wallpaper with react-native (Android only)
 ## Install
 
